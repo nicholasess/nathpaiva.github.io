@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll'
-gem 'jekyll-archives'
-gem 'jekyll-sitemap'
+gem 'jekyll', '>= 3.6.3'
+gem 'jekyll-archives', '>= 2.2.1'
+gem 'jekyll-sitemap', '>= 1.2.0'
 gem 'jekyll-paginate'
